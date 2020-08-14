@@ -1,2 +1,2 @@
 # DavidGreedy_UnityPackage
- A Unity package containing useful things.
+A Package containing useful Unity scripts.
