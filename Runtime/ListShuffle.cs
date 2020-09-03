@@ -1,7 +1,7 @@
 using System;
 using System.Collections.Generic;
 
-namespace Greedy.Utils
+namespace DavidGreedy.Utility
 {
     public static class ListShuffle
     {
